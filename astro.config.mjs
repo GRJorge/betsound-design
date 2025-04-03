@@ -9,5 +9,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: "https://grjorge.github.io",
-  base: "betsound",
+  base: "betsound-design",
 });
