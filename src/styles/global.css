@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+button {
+  cursor: pointer;
+}
+
 @theme {
   --color-dark: #1b1b1b;
   --color-light: #e0e0e0;
