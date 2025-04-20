@@ -6,5 +6,7 @@ button {
 
 @theme {
   --color-dark: #1b1b1b;
+  --color-dark-200: #0f0f0f;
   --color-light: #e0e0e0;
+  --color-blue: #0c8ce9;
 }
